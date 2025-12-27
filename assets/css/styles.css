@@ -6,3 +6,6 @@ body{
     background-image:url("../images/01-02-02_background-img.jpg");
     background-color:green;
 }
+p{
+    font-weight: bold;
+}
